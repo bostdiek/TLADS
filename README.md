@@ -36,9 +36,9 @@ This repository contains tutorials and examples for data analysis and visualizat
    ```
 2. Open the repository in Visual Studio Code.
 3. Open the repository in a Dev Container:
-   - Press `F1` to open the command palette.
-   - Type `Dev Containers: Rebuild and Reopen in Container` and select it.
-        ![Dev Containers](./assets/dev_container_setup.png)
+ - Press `F1` to open the command palette (or `Shift + Command + P` on Mac or `Ctrl + Shift + P` on Windows/Linux).
+    - Type `Dev Containers: Rebuild and Reopen in Container` and select it.
+          ![Dev Containers](./assets/dev_container_setup.png)
 
 ### Running the Example Notebook
 1. Open the ['example_commands.ipynb'](./tutorials/example_commands.ipynb) notebook in Visual Studio Code.
